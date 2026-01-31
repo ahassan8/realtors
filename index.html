@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+  <title>Directory</title>
+  <meta name="description" content="Explore trusted local businesses in your area. Browse recommended spots with contact details, addresses, and websites.">
+  <meta name="theme-color" content="#ffffff">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body data-directory="realtors">
+  <header class="header">
+    <div class="wrap header-inner">
+      <div class="header-title" id="headerTitle">Directory</div>
+      <button class="btn btn-primary" id="listBusinessBtn" type="button">List your business</button>
+    </div>
+
+    <section class="directory-desc">
+      <div class="wrap">
+        <p id="directoryDesc" class="directory-text"></p>
+      </div>
+    </section>
+  </header>
+
+  <main>
+
+    <section class="section section-tight" id="listings" aria-labelledby="listTitle">
+      <div class="wrap">
+        <div class="section-head">
+          <h2 id="listTitle">Businesses</h2>
+        </div>
+        <div class="list" id="businessList"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="wrap footer-inner">
+      <div class="foot-left">
+        <div class="foot-title" id="footerBrand">Directory</div>
+        <div class="muted" id="footerNote">Listings shown only with business permission.</div>
+      </div>
+
+      <div class="foot-right">
+        <a class="footlink" href="#">Home</a>
+        <a class="footlink" href="#listings">Listings</a>
+      </div>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
+
+</body>
+</html>
+
+
+
+
+
+
+

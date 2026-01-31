@@ -1,0 +1,109 @@
+{
+  "pageTitle": "Lawn Care Services in Columbia, SC | ColumbiaLawns.com",
+  "headerName": "Lawn Care Services in Columbia, SC",
+  "directoryDescription": "Find trusted lawn care and maintenance companies in Columbia, SC. Compare services like mowing, fertilization, weed control, and landscaping.",
+  "recommendedTitle": "Recommended Lawn Care Companies",
+  "listTitle": "Lawn Care Services",
+  "footerBrand": "ColumbiaLawns.com",
+  "footerNote": "Listings shown only with business permission.",
+  "recommended": [
+    {
+      "name": "Augusta Lawn Care of Columbia",
+      "area": "Columbia, SC",
+      "phone": "(803) 780-4459",
+      "phoneRaw": "+18037804459",
+      "email": "",
+      "website": "https://www.augustalawncareservices.com/columbia",
+      "websiteLabel": "augustalawncareservices.com",
+      "image": ""
+    },
+    {
+      "name": "TurfMasters of Columbia",
+      "area": "Columbia, SC",
+      "phone": "(803) 522-4668",
+      "phoneRaw": "+18035224668",
+      "email": "",
+      "website": "https://turfmasters.com/turfmasters-of-columbia-2/",
+      "websiteLabel": "turfmasters.com",
+      "image": ""
+    },
+    {
+      "name": "Lawn Doctor of Columbia",
+      "area": "Columbia, SC",
+      "phone": "(803) 592-9333",
+      "phoneRaw": "+18035929333",
+      "email": "",
+      "website": "https://www.lawndoctor.com/columbia-sc",
+      "websiteLabel": "lawndoctor.com",
+      "image": ""
+    },
+    {
+      "name": "Weed Man Lawn Care of Columbia",
+      "area": "Columbia, SC",
+      "phone": "(803) 787-9333",
+      "phoneRaw": "+18037879333",
+      "email": "",
+      "website": "https://weedman.com/locations/sc/columbia",
+      "websiteLabel": "weedman.com",
+      "image": ""
+    }
+  ],
+  "businesses": [
+    {
+      "name": "Busy Bee Lawn Care",
+      "address": "Columbia, SC",
+      "description": "Local lawn care provider offering mowing, edging, trimming, and seasonal maintenance services.",
+      "phone": "(803) 331-5323",
+      "phoneRaw": "+18033315323",
+      "email": "",
+      "website": "https://busybeelawncare.com",
+      "websiteLabel": "busybeelawncare.com",
+      "image": ""
+    },
+    {
+      "name": "Elite Lawn & Landscape",
+      "address": "1122 Lady St, Columbia, SC 29201",
+      "description": "Professional lawn maintenance and landscaping services including mowing, cleanups, and seasonal care.",
+      "phone": "(803) 814-7834",
+      "phoneRaw": "+18038147834",
+      "email": "",
+      "website": "https://elitelawn.us",
+      "websiteLabel": "elitelawn.us",
+      "image": ""
+    },
+    {
+      "name": "Blue Moon Landscaping & Lawn Maintenance",
+      "address": "Columbia, SC",
+      "description": "Full-service landscaping and lawn maintenance company serving Columbia and surrounding areas.",
+      "phone": "(803) 851-5296",
+      "phoneRaw": "+18038515296",
+      "email": "",
+      "website": "https://bluemoonlandscaping.com",
+      "websiteLabel": "bluemoonlandscaping.com",
+      "image": ""
+    },
+    {
+      "name": "Manicured Lawns",
+      "address": "Columbia, SC 29223",
+      "description": "Residential and commercial lawn care services specializing in mowing, fertilization, and aeration.",
+      "phone": "(803) 738-5296",
+      "phoneRaw": "+18037385296",
+      "email": "",
+      "website": "",
+      "websiteLabel": "",
+      "image": ""
+    },
+    {
+      "name": "Midlands Extreme Lawn Care",
+      "address": "Columbia, SC",
+      "description": "Local lawn care company providing affordable mowing and yard cleanup services.",
+      "phone": "(803) 748-6821",
+      "phoneRaw": "+18037486821",
+      "email": "",
+      "website": "",
+      "websiteLabel": "",
+      "image": ""
+    }
+  ]
+}
+
